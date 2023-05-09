@@ -8,3 +8,8 @@
 	url = https://github.com/micecon/miceconces
 	shallow = true
 	registered = true
+[submodule "micEconDistRay"]
+	path = micEconDistRay
+	url = https://github.com/micecon/micecondistray
+	shallow = true
+	registered = true
