@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "micEconCES"]
 	path = micEconCES
 	url = https://github.com/micecon/miceconces
-	shallow = true
-	registered = true
 [submodule "micEconDistRay"]
 	path = micEconDistRay
 	url = https://github.com/micecon/micecondistray
-	shallow = true
-	registered = true
